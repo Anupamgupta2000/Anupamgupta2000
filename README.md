@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anupam Gupta.
-- I am currently pursuing B.Tech in Computer Engineering from NSUT Delhi.
+- I completed my B.Tech in Computer Engineering from NSUT Delhi in May 2022.
 - 👀 I’m interested in SDE Job.
-- 🌱 I’m currently learning Coding and Web Devlopment.
+- 🌱 I’m currently learning Coding and Backend Devlopment.
 - 📫 How to reach me Email: anupam.rtp@gmail.com
 
 <!---
